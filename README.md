@@ -7,3 +7,10 @@ Note that **I don't know Python well**. You can develop this if you wish too.
 ## Texts Sources
 The source book is Tamil Proverbs with their English Translation, written by P. Percival. The text of this book is copied from the [Wikisource](https://en.wikisource.org/wiki/Tamil_Proverbs).
 More books will be added in the future.
+
+## How to Use this tool
+1. Download the .zip file
+2. Extract them in your computer
+3. Open the Ternimal and navigate to where the files are stored.
+4. Run <code>python3 finder.py</code>
+5. And type the word or paste the word (copying and pasting is recommend)
