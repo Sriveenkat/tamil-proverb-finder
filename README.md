@@ -6,4 +6,4 @@ Note that **I don't know Python well**. You can develop this if you wish too.
 
 ## Texts Sources
 The source book is Tamil Proverbs with their English Translation, written by P. Percival. The text of this book is copied from the [Wikisource](https://en.wikisource.org/wiki/Tamil_Proverbs).
-There are many more texts to be added in the future.
+More books will be added in the future.
